@@ -1,0 +1,10 @@
+1001,Camry,Toyota,Blue,2025-01-03,25999
+1002,Civic,Honda,Red,2025-02-10,22950
+1001,Mustang,Ford,Black,2025-03-21,38999
+1003,Malibu,Chevrolet,White,2025-04-05,21000
+1004,Model 3,Tesla,Silver,2025-05-11,41999
+1006,Charger,Dodge,Red,2025-07-19,35900
+1007,Corolla,Toyota,Blue,2025-08-14,21900
+1009,Camaro,Chevy,Black,2025-12-11,18999
+1010,Altima,Nissan,White,2020-04-25,12599
+1008,R8,Adui,Gray,2025-02-18,125999

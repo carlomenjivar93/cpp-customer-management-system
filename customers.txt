@@ -1,0 +1,9 @@
+John,Doe,1001,245 W 34th St,Manhattan,NY,10001,212-555-1020
+Anthony,Garcia,1007,501 Bay St,Staten Island,NY,10304,718-555-6644
+Michael,Johnson,1003,55 Flatbush Ave,Brooklyn,NY,11217,718-555-1122
+Sarah,Miller,1006,210 W 79th St,Manhattan,NY,10024,212-555-7780
+Maria,Smith,1002,880 Grand Concourse,Bronx,NY,10451,718-555-8899
+Alan,Wake,1004,9 38th Ave,Queens,NY,11101,347-555-9921
+Grace,Vega,1008,64 5th Ave,Brooklyn,NY,09457,666-888-4447
+Henry,Marks,1009,45 North Ave,Staten Island,NY,10310,347-777-8858
+Rose,Bank,1010,5 Maple St,Staten Island,NY,10314,718-995-6658
